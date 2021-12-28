@@ -1,0 +1,8 @@
+{
+  "name": "Trrev_Quiz",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular",
+  "id": "31a223c9"
+}
